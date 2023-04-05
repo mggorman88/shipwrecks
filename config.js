@@ -111,7 +111,7 @@ var config = {
         {
             id: 'slide 5',
             title: 'SHIPWRECKS: SANGUINAIRES AND PORTO NOVO',
-            image: 'ptolemy.jpg',
+            image: 'images/ptolemy.jpg',
             description: 'These two sites off the coast of Corsica are similar to each other in that few remnants of the physical ships still exist - only nails and sheathing indicate that the found cargo came from an ancient sea vessel. Similar to the Dramont ship of the previous site, the Eastern Porto Novo cargo is mainly stone, marble, and stone working equipment from a variety of locations, though it also contains vanity items like three mirrors, some bronze and clay vases, fishing weights, and a decorated sword to suggest the presence of military personnel on board. The Sanguinaires site conversely holds a bounty of ornate goods like red and black glazed pottery, copper ingots, attic lamps, glass, and an interesting bronze coin depicting one of the Ptolemaic rulers of Macedonian Egypt (A statuette of Ptolemy III is pictured above). The two sites both sit at around 15 meters deep below sea level, give or take a few meters.',
             location: {
                 center: [8.673, 41.665],
